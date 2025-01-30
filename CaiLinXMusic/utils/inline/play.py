@@ -71,7 +71,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
                 text=" ᴏᴡɴᴇʀ ", url=f"https://t.me/Iso_Lost_Control"
             ),
             InlineKeyboardButton(
-                text=" ᴄʜᴀᴛ ", url=f"https://t.me/seriousvs_version10"
+                text=" ᴄʜᴀᴛ ", url=f"https://t.me/seriousvs_version20"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text=" ᴏᴡɴᴇʀ ", url=f"https://t.me/Iso_Lost_Control"
             ),
             InlineKeyboardButton(
-                text=" ᴄʜᴀᴛ ", url=f"https://t.me/seriousvs_version10"
+                text=" ᴄʜᴀᴛ ", url=f"https://t.me/seriousvs_version20"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
