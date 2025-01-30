@@ -113,7 +113,7 @@ def queuemarkup(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/seriousvs_version10",
+                url="https://t.me/ZuriOfficialUpgrade",
             ),
         ],
     ]
